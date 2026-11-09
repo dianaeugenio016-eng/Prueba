@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422742373544",
+    "project_id": "jsjsjsjsjs-d5b32",
+    "storage_bucket": "jsjsjsjsjs-d5b32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422742373544:android:04858832d97d09d4e7fe9d",
+        "android_client_info": {
+          "package_name": "com.example.universidad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7ga4grRWIXXzp2hWVTU1EUnsNk17Av0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422742373544:android:e5b76c4305acc740e7fe9d",
+        "android_client_info": {
+          "package_name": "com.example.vista1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7ga4grRWIXXzp2hWVTU1EUnsNk17Av0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
